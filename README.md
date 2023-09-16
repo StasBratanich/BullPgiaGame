@@ -1,5 +1,7 @@
 <h1 align="center">BullPgiaGame</h1>
 
+***
+
 This Project was made with .NET Framework in C# langugae
 
 ## 🌟 Game Rules :
@@ -30,6 +32,12 @@ The player will pick a guess of 4 colors out of the 8 colors available
 ***Until the user has the correct guess***
 
 ![image](https://github.com/StasBratanich/BullPgiaGame/assets/83605505/902a62b2-3bbc-4834-8e06-52fabe9ece23)
+
+***
+
+## 📑 Code
+
+
 
 ✉️ [bstasb@gmail.com](url)  
 💿 https://github.com/StasBratanich  
