@@ -33,10 +33,6 @@ The player will pick a guess of 4 colors out of the 8 colors available
 
 ![image](https://github.com/StasBratanich/BullPgiaGame/assets/83605505/49cc451d-970d-4b88-84f7-44c496857716)
 
-***Until the user has the correct guess***
-
-![image](https://github.com/StasBratanich/BullPgiaGame/assets/83605505/902a62b2-3bbc-4834-8e06-52fabe9ece23)
-
 ***
 
 ## 📑 Code
