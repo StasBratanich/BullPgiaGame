@@ -37,7 +37,16 @@ The player will pick a guess of 4 colors out of the 8 colors available
 
 ## 📑 Code
 
+***Game Logic***
+- Function to generate a random sequence
+- Functions to handle a win or lose situation
 
+***UI***
+- Functions to display the forms to the user
+- Function to convert the colors into characters for the game logic to handle
+- Functions to mediate between the game logic and user interface
+
+***
 
 ✉️ [bstasb@gmail.com](url)  
 💿 https://github.com/StasBratanich  
