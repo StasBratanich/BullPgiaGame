@@ -2,7 +2,7 @@
 
 ***
 
-This Project was made with .NET Framework in C# langugae
+This Project was made with .NET Framework in C# language
 
 ***
 
