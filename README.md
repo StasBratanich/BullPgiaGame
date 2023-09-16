@@ -1,7 +1,5 @@
 <h1 align="center">BullPgiaGame</h1>
 
-***
-
 This Project was made in with .NET Framework in C# langugae
 
 ## 🌟 Game Rules :
@@ -13,7 +11,7 @@ This Project was made in with .NET Framework in C# langugae
 
 ![image](https://github.com/StasBratanich/BullPgiaGame/assets/83605505/d9042a4d-97a8-4fe2-a971-de0972b084f6)
 
-The player can choose how many fuess attemps he will have between 4 - 10
+The player can choose how many guess attempts he will have between 4 - 10 guesses
 
 ![image](https://github.com/StasBratanich/BullPgiaGame/assets/83605505/cb20316c-f06f-4a12-80ba-9e52119f5d11)
 
