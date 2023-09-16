@@ -1,6 +1,6 @@
 <h1 align="center">BullPgiaGame</h1>
 
-This Project was made in with .NET Framework in C# langugae
+This Project was made with .NET Framework in C# langugae
 
 ## 🌟 Game Rules :
 
