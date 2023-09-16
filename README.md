@@ -29,6 +29,8 @@ The player will pick a guess of 4 colors out of the 8 colors available
 - If the color is also in the right place in the sequence, a black square will appear
 - If a color doesn't appear in the random sequence, the square will remain gray
 
+**When the sequence is guessed correctly, it will be revealed, and the game is won**
+
 ![image](https://github.com/StasBratanich/BullPgiaGame/assets/83605505/49cc451d-970d-4b88-84f7-44c496857716)
 
 ***Until the user has the correct guess***
